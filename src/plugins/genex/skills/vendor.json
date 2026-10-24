@@ -1,11 +1,11 @@
 {
-  "cliVersion": "1.36.13",
-  "skillMdVersion": "1.36.13",
+  "cliVersion": "1.36.16",
+  "skillMdVersion": "1.36.16",
   "url": "https://genex.games/SKILL.md",
   "files": {
     "genex/SKILL.md": {
       "source": "https://genex.games/SKILL.md",
-      "sha256": "86c7e5f1405c5d26865c152430cb32a13ab1c93ad01c8595e31b7c189caca8b9",
+      "sha256": "c4ea86322e7ded95450693a5421f5313c7d9dfbdde47bf151677b17ad5cb309d",
       "bytes": 9930
     },
     "genex-threejs-multiplayer/SKILL.md": {
@@ -45,8 +45,8 @@
     },
     "genex-llm-in-games/SKILL.md": {
       "source": "@genex-ai/cli-demo/templates/skills/genex-llm-in-games/SKILL.md",
-      "sha256": "01274d76ee89e945428efeaa3970a63575f2e9727e481980fec9bea726f3c14d",
-      "bytes": 20347
+      "sha256": "18d32f25298790f1efc9dc3d757aa84cf72e63476448cf9fc73c3594584f2135",
+      "bytes": 20346
     },
     "genex-llm-in-games/references/pricing.md": {
       "source": "@genex-ai/cli-demo/templates/skills/genex-llm-in-games/references/pricing.md",
@@ -60,8 +60,8 @@
     },
     "genex-monetization/SKILL.md": {
       "source": "@genex-ai/cli-demo/templates/skills/genex-monetization/SKILL.md",
-      "sha256": "24b4b798c597ce452af4bfa394cd4ca655710750d9f6e749c2b4ed8dd540e844",
-      "bytes": 16958
+      "sha256": "a48accb99d8c08bc245b961438ddceed6831dca55fb81f5b58fb0fc70f2ea80c",
+      "bytes": 19729
     },
     "genex-tool-publish/SKILL.md": {
       "source": "@genex-ai/cli-demo/templates/skills/genex-tool-publish/SKILL.md",
